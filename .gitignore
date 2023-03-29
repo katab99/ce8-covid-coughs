@@ -1,2 +1,7 @@
 /data/
 data.zip
+/wandb/
+/output/
+not_used_yet.py
+/.vscode/
+training_data.txt
